@@ -1,2 +1,3 @@
-# FoodAdvisor
-An interdisciplinary project for a tripadvisor application but for restaurants. 
+# FoodAdvisor SEM WS21
+
+Software Engineering and Management WS2021 Projektarbeit: FoodAdvisor

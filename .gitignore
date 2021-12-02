@@ -1,0 +1,9 @@
+/dockerfiles
+/backend/backend/__pycache__
+/backend/restaurant/__pycache__
+backend/restaurant/migrations
+.DS_Store
+FOODADVISORKEYPAIR.pem
+.DS_Store
+KeyPairFoodAdvisor.pem
+.DS_Store
