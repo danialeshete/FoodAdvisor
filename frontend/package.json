@@ -3,7 +3,7 @@
   "homepage": ".",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://backend:8000",
+  "proxy": "http://eb-foodadvisor-backend-env.eba-mxu4u3ph.eu-central-1.elasticbeanstalk.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",

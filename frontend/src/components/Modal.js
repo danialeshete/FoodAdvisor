@@ -65,8 +65,9 @@ export default class CustomModal extends Component {
                             <Label for="restaurant-rating">Ratings</Label>
                                 <Input
                                     type="number"
-                                    name="restaurant-rating"
+                                    name="ratings"
                                     placeholder="Enter your restaurant rating"
+                                    value={this.state.activeItem.ratings}
                                     onChange={this.handleChange}
                                 />
                         </FormGroup>
@@ -74,8 +75,8 @@ export default class CustomModal extends Component {
                             <Label check>
                                 <Input
                                     type="checkbox"
-                                    name="completed"
-                                    checked={this.state.activeItem.completed}
+                                    name="personalList"
+                                    checked={this.state.activeItem.personalList}
                                     onChange={this.handleChange}
                                 />
                                 In Personal List?

@@ -53,8 +53,7 @@ class App extends Component {
   };
 
   createItem = () => {
-    const item = { title: "", description: "", ratings: 5, personalList: false };
-
+    const item = {};
     this.setState({ activeItem: item, modal: !this.state.modal });
   };
 
